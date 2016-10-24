@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TallerFragment</string>
+
+    <string name="rojo">Rojo</string>
+    <string name="verde">Verde</string>
+    <string name="naranja">Naranja</string>
+    <string name="azul">Azul</string>
+    <string name="amarillo">Amarillo</string>
+
+</resources>
